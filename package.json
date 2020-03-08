@@ -1,0 +1,25 @@
+{
+  "name": "town-delivery-service",
+  "version": "1.0.0",
+  "description": "Town Delivery Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vavar/town-delivery-service.git"
+  },
+  "author": "warin laocharoen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vavar/town-delivery-service/issues"
+  },
+  "homepage": "https://github.com/vavar/town-delivery-service#readme",
+  "devDependencies": {
+    "mocha": "^7.1.0"
+  },
+  "dependencies": {
+    "inquirer": "^7.0.6"
+  }
+}
